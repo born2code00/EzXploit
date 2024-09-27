@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/EzXploit/releases) page.
+1. Download the latest release from the [Releases](https://github.com/born2code00/EzXploit/releases) page.
 2. Extract the files to a directory of your choice.
 3. Run `EzXploit.exe` as Administrator.
 4. Start Roblox and inject the exploit into the game.
